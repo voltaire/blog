@@ -24,7 +24,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-DISQUS_SITENAME = 'voltairemcblog'
+DISQUS_SITENAME = 'voltairemcblog.disqus.com'
+DISQUS_SHORTNAME = 'voltairemcblog'
 TWITTER_USERNAME = 'bsdlp'
 
 # Uncomment following line if you want document-relative URLs when developing
