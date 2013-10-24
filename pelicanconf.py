@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'nokbar'
 SITENAME = u'voltaireMC Blog'
-SITEURL = ''
+SITEURL = 'https://mc.voltaire.sh/blog'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Etc/UTC'
 
 DEFAULT_LANG = u'en'
 
@@ -16,10 +16,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('voltaireMC', 'https://mc.voltaire.sh/'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -29,3 +26,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
