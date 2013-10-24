@@ -16,11 +16,11 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('voltaireMC', 'https://mc.voltaire.sh/'))
+LINKS =  (('voltaireMC', 'https://mc.voltaire.sh/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+          ('Another social link', '#'))
 
 DEFAULT_PAGINATION = 10
 
