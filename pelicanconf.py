@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'nokbar'
-SITENAME = u'voltaireMC Blog'
-SITEURL = 'https://mc.voltaire.sh/blog'
+AUTHOR = u'bsdlp'
+SITENAME = u'voltaireMC'
+SITEURL = 'https://mc.voltaire.sh/'
 
 TIMEZONE = 'Etc/UTC'
 
@@ -15,13 +15,6 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-LINKS =  (('voltaireMC', 'https://mc.voltaire.sh/'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'))
-
 DEFAULT_PAGINATION = 10
 
 DISQUS_SITENAME = 'voltairemcblog'
@@ -29,4 +22,3 @@ TWITTER_USERNAME = 'bsdlp'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
