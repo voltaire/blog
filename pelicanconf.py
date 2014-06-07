@@ -21,4 +21,4 @@ DISQUS_SITENAME = 'voltairemcblog'
 TWITTER_USERNAME = 'bsdlp'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
