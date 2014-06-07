@@ -10,6 +10,11 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 S3_BUCKET=voltairemc-blog
 
+SSH_PORT=22
+SSH_USER=root
+SSH_HOST=ewr3
+SSH_TARGET_DIR=/srv/http/mcsite/public_html/blog/
+
 help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
