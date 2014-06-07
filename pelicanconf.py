@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'bsdlp'
 SITENAME = u'voltaireMC'
-SITEURL = 'https://mc.voltaire.sh/'
+SITEURL = 'http://mc.voltaire.sh/'
 
 TIMEZONE = 'Etc/UTC'
 
