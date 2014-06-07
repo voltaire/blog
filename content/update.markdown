@@ -3,7 +3,7 @@ Date: 2013-10-24 01:27
 Category: updates
 Tags: minecraft
 Slug: 17-update
-Author: nokbar
+Author: bsdlp 
 Summary: updates for 1.7 release
 
 # 1.7 update soon!
